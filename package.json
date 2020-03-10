@@ -1,5 +1,5 @@
 {
-  "name": "vue-editorjs",
+  "name": "quickvue-editorjs",
   "version": "0.0.1",
   "description": "Editorjs vue wrapper",
   "main": "index.js",
@@ -9,6 +9,12 @@
   ],
   "author": "Jake Overall <joverall22@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "url": "https://github.com/jakeoverall/quickvue-editorjs"
+  },
+  "bugs": {
+    "url": "https://github.com/jakeoverall/quickvue-editorjs/issues"
+  },
   "dependencies": {
     "@editorjs/checklist": "^1.1.0",
     "@editorjs/code": "^2.4.1",
